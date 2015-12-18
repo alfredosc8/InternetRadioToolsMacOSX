@@ -1,5 +1,5 @@
 # InternetRadioToolsMacOSX
-pre compiled static libs for use building internet radio source client for Mac OS X 10.9
+pre compiled static libs for building internet radio source client application on Mac OS X 10.9 or up 
 
 1. LibFLAC
 2. libogg
