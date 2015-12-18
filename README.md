@@ -18,7 +18,9 @@ pre compiled static libs for use building internet radio source client for Mac O
 16. headers <in zip format>
 
 How to use
+
 A. Create Icecast/shoutcast 's  source clients
+
 1. drag libshout, libogg, libspeex,libspeexdsp,libvorbis,libopus,libtheora to your Xcode Project
 2. drag relate header files to your Xcode Project (or simply add user headers-path on Xcode build settings)
 3. make a code
